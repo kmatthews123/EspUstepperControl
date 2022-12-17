@@ -4,7 +4,7 @@
 String Response = "";
 
 int MAC1;    //max acceleration
-int MVE1;   //max velocity
+int MVE1;   //max velocity, this is a test
 int DIR1;    //direction What direction should the motor move (stopped(0), CCW(1) CW(2) )
 int STP1;   //stop what kind of stop should be used (0(moving), 1(hard stop hold), 2 (hard stop no hold), 3(decel stop with hold), 4(decel stop without hold)
 float ANG1;   //Angle the stepper should move to
